@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=allRatings
+comment0.target=java.util.ArrayList\ sortRatingList(java.util.ArrayList)
+comment1.params=
+comment1.target=void\ printAverageRatings()
+comment2.params=
+comment2.target=void\ getAverageRatingOneMovie()
+numComments=3
